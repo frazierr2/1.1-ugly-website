@@ -1,0 +1,52 @@
+body{
+  background-color:#006400;
+  color: #FFFFFF;
+}
+
+h1{
+  color: #FF4500;
+  text-align: center;
+  margin:auto;
+}
+
+h2{
+  color:orange;
+  text-align: center;
+  margin: auto;
+}
+
+.ul-style{
+  width:40%;
+  margin: auto;
+  padding: 0;
+  list-style-type: none;
+
+
+}
+
+
+/*For the list options*/
+.li-style{
+  background-color: grey;
+  color: #FFFFFF;
+  text-align:center;
+  display: inline-block;
+  padding: 20px;
+
+}
+
+.li-style a{
+  color: yellow;
+  display: block;
+}
+.li-style a:hover{
+  background-color: white;
+  color:blue;
+}
+
+/*This is the Asbury Hills Logo */
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
