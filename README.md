@@ -15,7 +15,7 @@ During the development of this basic webiste I used the following technolog:
 
 
 
-### Link to U-Grub Web App
+### Link to website
 which is located [HERE]
 
 
